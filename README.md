@@ -1,3 +1,3 @@
 # Consigna para Coderhouse
 
-[![NPM version][npm-version-image]][npm-url]
+[![1.0.0][npm-version-image]][npm-url]
