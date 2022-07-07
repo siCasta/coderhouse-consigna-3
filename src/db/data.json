@@ -1,0 +1,22 @@
+{
+	"products": [
+		{
+			"title": "title 1",
+			"price": 1001,
+			"id": "5257d1ba-1692-4e4f-9e36-2f612e198bd3",
+			"thumbnail": "https://picsum.photos/200?image=2"
+		},
+		{
+			"title": "title 2",
+			"price": 1002,
+			"id": "66c7e31e-9cff-43e3-923c-d2db3280bb23",
+			"thumbnail": "https://picsum.photos/200?image=244"
+		},
+		{
+			"title": "title 3",
+			"price": 1003,
+			"id": "32fe42bf-96a2-4dc0-87ed-67dbaadc221b",
+			"thumbnail": "https://picsum.photos/200?image=293"
+		}
+	]
+}
